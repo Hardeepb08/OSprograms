@@ -1,2 +1,2 @@
-# OSprograms
-Basic programs for OS
+# OS
+OS prog
